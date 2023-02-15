@@ -1,0 +1,202 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "6d5042f9-954a-44f2-bc88-d89fd6b076dc",
+   "metadata": {},
+   "source": [
+    "1)Who developed python progamming language?                                \n",
+    "Ans.Python was created by Guido van Rossum."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2cbc7020-6681-4567-b184-67a55e4f56ee",
+   "metadata": {},
+   "source": [
+    "2)Which type of programming does python support?                                  \n",
+    "Ans.1)Procedural programming.\n",
+    "2)Object-oriented programming.\n",
+    "3)Functional programming.\n",
+    "4)Imperative programming.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0bf8ec43-a415-4272-8042-e22f591f94e3",
+   "metadata": {},
+   "source": [
+    "3)Is python case sensitive when dealing with identifiers?                             \n",
+    "Ans.Yes, Python is a case-sensitive programming language .  \n",
+    "            "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "98c80561-c020-4db8-b2ac-b01e4dcd95af",
+   "metadata": {},
+   "source": [
+    "4)What is the correct extension of the python file?                               \n",
+    "Ans.The correct extension for a Python file is \".py\".\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1ad28c24-ff1b-4886-b659-7844a98e425d",
+   "metadata": {},
+   "source": [
+    "5)Is Python code compiled or interpreted?                              \n",
+    "Ans.Python code is interpreted."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a834c852-e4bb-49a6-b8c1-3f4830319547",
+   "metadata": {},
+   "source": [
+    "6)Name a few blocks of code used to define in python language?                      \n",
+    "Ans.Functions,Loops,Conditional statements,Classes.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "94582c49-cfdf-468e-97c0-7b53b40f3d88",
+   "metadata": {},
+   "source": [
+    "7)State a character used to give single-line comments in python?             \n",
+    "Ans.\"#\" symbol."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bb8c93ea-0a74-4f3b-afea-a93360c7eda7",
+   "metadata": {},
+   "source": [
+    "8)Mention function which can help us to find the version of python that we are currently working on?                                                          \n",
+    "Ans.sys.version ."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a304d72b-f124-4285-a19a-1a6b0b2375b5",
+   "metadata": {},
+   "source": [
+    "9)Python supports the creation of anonymous functions at runtime,using a construct called?                                                 \n",
+    "Ans.lambda functions."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "85eeb5b7-28be-4b08-8f73-5269cc7033ce",
+   "metadata": {},
+   "source": [
+    "10)What does pip stand for python?                               \n",
+    "Ans.Pip stands for \"Pip Installs Packages\"."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "95f4731e-28a5-48c0-aed8-e8b59250fd73",
+   "metadata": {},
+   "source": [
+    "11)Mention a few built-in function in python?                             \n",
+    "Ans.print(),len(),input(),type()."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "228fde14-1509-4b24-ad80-c3dfa642e9ce",
+   "metadata": {},
+   "source": [
+    "12)What is the maximum possible length of an identifier in python?                    \n",
+    "Ans.255 characters."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "b2b60318-df29-403f-a0fd-3d6760a7f46f",
+   "metadata": {},
+   "source": [
+    "13)What are the benefits of using python?                          \n",
+    "Ans.Simple and easy to learn,Large community and ecosystem,High-level language,Large standard library."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0df68447-51df-4e48-9b10-c1bf247358ab",
+   "metadata": {},
+   "source": [
+    "14)How is memory managed in python?                                       \n",
+    "Ans.In Python, memory is managed dynamically by a mechanism called \"automatic memory management\" or \"garbage collection\". This means that the Python interpreter automatically manages the allocation and deallocation of memory for objects in the program, allowing programmers to focus on writing their code without worrying about managing memory manually."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "1b9d0742-3308-4673-8e4a-75b89dc81ae5",
+   "metadata": {},
+   "source": [
+    "15)How to install python on windows and set path variables?                      \n",
+    "Ans.1)Download Python: Go to the official Python website at https://www.python.org/downloads/ and download the latest version of Python for Windows.\n",
+    "\n",
+    "2)Run the installer: Once the download is complete, run the installer and follow the prompts to install Python on your computer.\n",
+    "\n",
+    "3)Check the installation: After the installation is complete, open a command prompt and type \"python\" to check if Python is installed correctly. You should see the Python interpreter start up and display the version number.\n",
+    "\n",
+    "4)Set path variables: To use Python from anywhere on your computer, you need to add the Python executable to your system's PATH environment variable. Here's how to do it:\n",
+    "\n",
+    ". Open the Start menu and search for \"Environment Variables\".\n",
+    ". Click on \"Edit the system environment variables\".\n",
+    ". Click on the \"Environment Variables\" button.\n",
+    ". In the \"System variables\" section, scroll down and find the \"Path\" variable, then click on \"Edit\".\n",
+    ". Click on \"New\" and add the path to the Python executable directory (e.g., \"C:\\Python\\Python39\").\n",
+    ". Click \"OK\" to save the changes.\n",
+    "\n",
+    "5)Check the path variables: To check if the path variables have been set correctly, open a new command prompt and type \"python\". If you see the Python interpreter start up, then you have successfully set the path variables.\n",
+    "\n",
+    "That's it! You have now installed Python on Windows and set the path variables to use Python from anywhere on your computer."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f20cfaf2-57cb-4a7e-ba1e-90b8780de8b4",
+   "metadata": {},
+   "source": [
+    "16)Is indentation required in python?                                        \n",
+    "Ans.Yes, indentation is required in Python.\n",
+    "\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d39a8ea9-6efd-493f-a7cc-cdf9d57b1355",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
